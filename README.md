@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Nandhirajan!
+
+<a href="https://www.udemy.com/user/nandhirajan/">
+  <img align="left" alt="Nandhirajan| Udemy" width="22px" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" />
+</a>
 
 <!--
 **nandhirajan/nandhirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
