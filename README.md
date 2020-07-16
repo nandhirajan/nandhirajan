@@ -21,6 +21,10 @@
 *************
 ### Languages and Tools
 
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <!--
 **nandhirajan/nandhirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
