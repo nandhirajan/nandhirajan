@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/nandhirajan2013">
-  <img align="left" alt="Nandhirajan| Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/udemy.svg" />
+  <img align="left" alt="Nandhirajan| Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 
 <a href="https://www.udemy.com/user/nandhirajan">
