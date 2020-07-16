@@ -1,7 +1,19 @@
 ### Hi there, I'm Nandhirajan!
 
-<a href="https://www.udemy.com/user/nandhirajan/">
+<a href="https://stackoverflow.com/users/9156099/nandy">
+  <img align="left" alt="Nandhirajan| StackOverflw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/nandhirajan2013">
+  <img align="left" alt="Nandhirajan| Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/udemy.svg" />
+</a>
+
+<a href="https://www.udemy.com/user/nandhirajan">
   <img align="left" alt="Nandhirajan| Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/udemy.svg" />
+</a>
+
+<a href="https://www.strava.com/athletes/20383049">
+  <img align="left" alt="Nandhirajan| Strava" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/strava.svg" />
 </a>
 
 <!--
