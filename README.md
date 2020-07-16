@@ -1,7 +1,7 @@
 ### Hi there, I'm Nandhirajan!
 
 <a href="https://www.udemy.com/user/nandhirajan/">
-  <img align="left" fill="#000000" alt="Nandhirajan| Udemy" width="22px" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" />
+  <img align="left" alt="Nandhirajan| Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/udemy.svg" />
 </a>
 
 <!--
