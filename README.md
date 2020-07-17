@@ -31,7 +31,7 @@
 <img src="./images/js.svg" alt="javascript" style="vertical-align:top; margin:4px">  
 <img src="./images/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">  
 <img src="./images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">  
-<img src="./images/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
 <img src="./images/docker.svg" alt="docker" style="vertical-align:top; margin:4px"> 
 <img src="./images/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
 <img src="./images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px"> 
