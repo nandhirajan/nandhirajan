@@ -19,18 +19,39 @@
 <br />
 
 *************
-<!--### Languages and Tools-->
+### Languages and Frameworks
 
-<!--<p align="center"> -->
-  
+<p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
 
+<img src="./images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="./images/css3.svg" alt="css3" style="vertical-align:top; margin:4px">   
+<img src="./images/react.svg" alt="react" style="vertical-align:top; margin:4px">  
+<img src="./images/js.svg" alt="javascript" style="vertical-align:top; margin:4px">  
+<img src="./images/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">  
+<img src="./images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">  
+<img src="./images/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
+<img src="./images/docker.svg" alt="docker" style="vertical-align:top; margin:4px"> 
+<img src="./images/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
+<img src="./images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px"> 
+
+</p>
+<br />
+
+*************
+### Tools
+
+<p align="center">
+
+<img src="./images/visualstudiocode.svg" alt="visualstudiocode" style="vertical-align:top; margin:4px"> 
+<img src="./images/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> 
+<img src="./images/androidstudio.svg" alt="androidstudio" style="vertical-align:top; margin:4px"> 
+
+</p>
 
 <!--
-**nandhirajan/nandhirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+To be Added
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
