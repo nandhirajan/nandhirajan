@@ -25,16 +25,16 @@
 
 <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="./images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="./images/css3.svg" alt="css3" style="vertical-align:top; margin:4px">   
-<img src="./images/react.svg" alt="react" style="vertical-align:top; margin:4px">  
-<img src="./images/js.svg" alt="javascript" style="vertical-align:top; margin:4px">  
-<img src="./images/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">  
-<img src="./images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">  
-<img src="./images/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
-<img src="./images/docker.svg" alt="docker" style="vertical-align:top; margin:4px"> 
-<img src="./images/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
-<img src="./images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/css3.svg" alt="css3" style="vertical-align:top; margin:4px">   
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/react.svg" alt="react" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/js.svg" alt="javascript" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/docker.svg" alt="docker" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px"> 
 
 </p>
 <br />
@@ -44,9 +44,9 @@
 
 <p align="center">
 
-<img src="./images/visualstudiocode.svg" alt="visualstudiocode" style="vertical-align:top; margin:4px"> 
-<img src="./images/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> 
-<img src="./images/androidstudio.svg" alt="androidstudio" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/visualstudiocode.svg" alt="visualstudiocode" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/nandhirajan/nandhirajan/blob/master/images/androidstudio.svg" alt="androidstudio" style="vertical-align:top; margin:4px"> 
 
 </p>
 
